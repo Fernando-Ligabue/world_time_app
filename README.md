@@ -2,9 +2,10 @@
 
 A new Flutter project.
 
-![Screenshot_1640624782](https://user-images.githubusercontent.com/76406175/147493053-fa875078-07eb-4488-a286-620e02587483.png)
-![Screenshot_1640624788](https://user-images.githubusercontent.com/76406175/147493067-bb1cbae2-f24e-4f59-87ca-b7a57e06a427.png)
-![Screenshot_1640624794](https://user-images.githubusercontent.com/76406175/147493074-b1f277c9-7697-450c-a1a8-41e4220b5ab2.png)
+The World Time api http://worldtimeapi.org/ was used for the data search.
+
+![Screenshot_1640624794](https://user-images.githubusercontent.com/76406175/147495718-b96cf8e6-e716-4d65-935e-d8c65b03400b.jpg), ![Screenshot_1640624788](https://user-images.githubusercontent.com/76406175/147495719-f1481aaf-f93f-4f86-8831-5a20156c8850.jpg), ![Screenshot_1640624782](https://user-images.githubusercontent.com/76406175/147495721-79889873-085f-404b-82b8-2b5d0a5dd53e.jpg)
+
 
 
 ## Getting Started
